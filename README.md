@@ -1,6 +1,7 @@
 ### Me, Myself, and AI
+
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://miro.medium.com/max/2878/0*M50IPKZz58Fyy178.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/NWlBEcDW5evFS/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
