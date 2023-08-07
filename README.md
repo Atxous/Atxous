@@ -1,4 +1,9 @@
 ### Me, Myself, and AI
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://miro.medium.com/max/2878/0*M50IPKZz58Fyy178.gif" width="600" height="300"/>
+</div>
+
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atxous&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
