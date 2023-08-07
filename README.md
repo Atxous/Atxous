@@ -5,6 +5,9 @@
 </div>
 
 ---
+
+I love jupyter notebooks
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atxous&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
